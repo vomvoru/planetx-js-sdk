@@ -1,3 +1,6 @@
+# 복제(Fork)된 프로젝트
+npm i 로 설치하기 위해 package.json을 추가하였습니다.
+
 본 SDK는 SK PlanetX 가 제공하는 서비스를 토대로 JavaScript 개발을 위한 라이브러리 성격의 SDK입니다.
 planetxsdk.js는 jQuery (v.1.8.0)를 기반으로 개발되었으며,
 One ID 서버와의 통신 및 인증을 수행하고 PlanetX 서버와의 통신을 수행합니다.

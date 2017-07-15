@@ -1,0 +1,22 @@
+{
+  "name": "planetx-js-sdk",
+  "version": "1.1.0",
+  "description": "본 SDK는 SK PlanetX 가 제공하는 서비스를 토대로 JavaScript 개발을 위한 라이브러리 성격의 SDK입니다.\r planetxsdk.js는 jQuery (v.1.8.0)를 기반으로 개발되었으며,\r One ID 서버와의 통신 및 인증을 수행하고 PlanetX 서버와의 통신을 수행합니다.",
+  "main": "planetxsdk.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vomvoru/planetx-js-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vomvoru/planetx-js-sdk/issues"
+  },
+  "homepage": "https://github.com/vomvoru/planetx-js-sdk#readme"
+}
